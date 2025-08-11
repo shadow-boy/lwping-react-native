@@ -5,7 +5,7 @@
       "lwping": ["./src/index"]
     },
     "allowUnreachableCode": false,
-    "allowUnusedLabels": true,
+    "allowUnusedLabels": false,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "jsx": "react-jsx",
