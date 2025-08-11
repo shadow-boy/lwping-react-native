@@ -2,6 +2,7 @@
   "name": "lwping",
   "version": "0.1.0",
   "description": "ping module for react-native,only support ios side",
+  "private": true,
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
   "exports": {
